@@ -1,1 +1,1 @@
-[{"anonymous":"","check_count":46,"fail_count":0,"https":false,"last_status":true,"last_time":"2025-11-30 03:22:07","proxy":"46.32.231.84:80","region":"","source":"freeProxy27"},{"anonymous":"","check_count":43,"fail_count":0,"https":false,"last_status":true,"last_time":"2025-11-30 03:22:15","proxy":"39.104.89.111:83","region":"","source":"freeProxy27"},{"anonymous":"","check_count":45,"fail_count":0,"https":false,"last_status":true,"last_time":"2025-11-30 03:22:08","proxy":"68.183.207.140:80","region":"","source":"freeProxy33"}]
+[]
